@@ -1,0 +1,1 @@
+git clone (Get-Clipboard)
